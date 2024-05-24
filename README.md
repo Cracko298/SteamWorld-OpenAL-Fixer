@@ -8,7 +8,7 @@
 
 ## Features:
 - Automatically Detects Games installed via Steam, and Patches OpenAL.
-- If no installations are found it'll go into Single-Patch Mode (allows patching of undetected executables)
+- If no installations are found it'll go into Single-Patch Mode (allows patching of undetected executables).
 
 ### Upcoming Updates:
 - Automatically detect GOG Launcher Version of SteamWorld (series).
