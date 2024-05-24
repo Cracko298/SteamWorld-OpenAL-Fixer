@@ -13,7 +13,7 @@
 - SteamWorld Heist
 - SteamWorld Dig
 - SteamWorld Dig 2
-- SteamWorld Quest
+- SteamWorld Quest (Isn't currently affected, but might need to be in the Future).
 
 ### Excluded Games:
 - SteamWorld Tower Defense
