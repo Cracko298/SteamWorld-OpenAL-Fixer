@@ -16,3 +16,8 @@ Reasoning:
 Build          - SteamWorld Build uses Unity, and Not Image & Forms in-house Engine.
 Tower Defense  - SteamWorld Tower Defense was only released on the Nintendo DSi
 ```
+
+
+## Credits:
+- [KCAT](https://github.com/kcat) - Creator of OpenAL-Soft, which emulates features of OpenAL instead of Relying on Windows itself.
+- [Cracko298](https://github.com/Cracko298) - Developer of this Fix.
