@@ -1,5 +1,5 @@
 # SteamWorld-OpenAL-Fixer
-- Fixes SteamWorld Games from 2011 up until 2021.
+- Fixes SteamWorld Games from 2011 up until 2019.
 - While Quest is currently unaffected, it's best to patch it too avoid future complications.
 
 ## Download(s):
