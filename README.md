@@ -1,5 +1,13 @@
 # SteamWorld-OpenAL-Fixer
-- Fixes SteamWorld games from 2011 up until 2012.
+- Fixes SteamWorld games from 2011 up until 2021.
+
+
+## Features:
+- Automatically Detects Games installed via Steam, and Patches OpenAL.
+- If no installations are found it'll go into Single-Patch Mode (allows patching of undetected executables)
+
+### Upcoming Updates:
+- Automatically detect GOG Launcher Version of SteamWorld (series).
 
 ### Supported Games:
 - SteamWorld Heist
@@ -18,6 +26,6 @@ Tower Defense  - SteamWorld Tower Defense was only released on the Nintendo DSi
 ```
 
 
-## Credits:
+### Credits:
 - [KCAT](https://github.com/kcat) - Creator of OpenAL-Soft, which emulates features of OpenAL instead of Relying on Windows itself.
-- [Cracko298](https://github.com/Cracko298) - Developer of this Fix.
+- [Cracko298](https://github.com/Cracko298) - Developer of the Application.
