@@ -1,5 +1,6 @@
 # SteamWorld-OpenAL-Fixer
 - Fixes SteamWorld Games from 2011 up until 2021.
+- While Quest is currently unaffected, it's best to patch it too avoid future complications.
 
 ## Download(s):
 - Download Source [Here](https://github.com/Cracko298/SteamWorld-OpenAL-Fixer/releases/download/v1.0/SteamWorld_OpenAL.py).
