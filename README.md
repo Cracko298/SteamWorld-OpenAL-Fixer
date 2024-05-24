@@ -1,5 +1,5 @@
 # SteamWorld-OpenAL-Fixer
-- Fixes SteamWorld games from 2011 up until 2021.
+- Fixes SteamWorld Games from 2011 up until 2021.
 
 
 ## Features:
