@@ -1,6 +1,9 @@
 # SteamWorld-OpenAL-Fixer
 - Fixes SteamWorld Games from 2011 up until 2021.
 
+## Download(s):
+- Download Source [Here]()
+- Download Compiled Application [Here]()
 
 ## Features:
 - Automatically Detects Games installed via Steam, and Patches OpenAL.
