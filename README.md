@@ -2,8 +2,8 @@
 - Fixes SteamWorld Games from 2011 up until 2021.
 
 ## Download(s):
-- Download Source [Here](https://github.com/Cracko298/SteamWorld-OpenAL-Fixer/releases/download/v1.0/SteamWorld_OpenAL.py)
-- Download Compiled Application [Here](https://github.com/Cracko298/SteamWorld-OpenAL-Fixer/releases/download/v1.0/SteamWorld_OpenAL.exe)
+- Download Source [Here](https://github.com/Cracko298/SteamWorld-OpenAL-Fixer/releases/download/v1.0/SteamWorld_OpenAL.py).
+- Download Compiled Application [Here](https://github.com/Cracko298/SteamWorld-OpenAL-Fixer/releases/download/v1.0/SteamWorld_OpenAL.exe).
 
 ## Features:
 - Automatically Detects Games installed via Steam, and Patches OpenAL.
