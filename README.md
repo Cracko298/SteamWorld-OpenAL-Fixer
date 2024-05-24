@@ -13,6 +13,6 @@
 ```
 Reasoning:
 
-Build          - SteamWorld Build uses Unity, and Not Image & Forms in-house Engine like games such as Quest, or Heist.
-Tower Defense  - SteamWorld Tower Defense was only released on the Nintendo DSi, and Not re-released on PC/Console.
+Build          - SteamWorld Build uses Unity, and Not Image & Forms in-house Engine.
+Tower Defense  - SteamWorld Tower Defense was only released on the Nintendo DSi
 ```
